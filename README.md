@@ -2,7 +2,7 @@
 
 I'm Shiro, a passionate software developer with a strong interest in VR (Virtual Reality). I enjoy working with various programming languages and frameworks, but my current focus is on JavaScript.  
 
-🌱 I'm always eager to learn new things and grow as a developer. Currently, I'm exploring vue、Node.js.
+🌱 I'm always eager to learn new things and grow as a developer. Currently, I'm exploring vue、Node.js、Solitidy.
 
 <!--
 **MasterOuO/MasterOuO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
