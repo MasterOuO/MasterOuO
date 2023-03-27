@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi 👋 I'm Shiro  
 
+I am currently a Unity engineer in the VR (Virtual Reality) field.  
+I am currently learning relevant technologies in other fields.
 <!--
 **MasterOuO/MasterOuO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
