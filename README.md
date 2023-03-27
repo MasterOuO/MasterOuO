@@ -1,7 +1,9 @@
-### Hi 👋 I'm Shiro  
+### Hi 👋
 
-I'm currently a Unity engineer in the VR (Virtual Reality) field.  
-I'm currently learning relevant technologies in other fields.
+I'm Shiro, a passionate software developer with a strong interest in VR (Virtual Reality). I enjoy working with various programming languages and frameworks, but my current focus is on JavaScript.  
+
+🌱 I'm always eager to learn new things and grow as a developer. Currently, I'm exploring vue、Node.js.
+
 <!--
 **MasterOuO/MasterOuO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterOuO&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterOuO&show_icons=true&theme=radical)  
+
 
