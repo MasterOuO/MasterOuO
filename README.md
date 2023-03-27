@@ -5,7 +5,7 @@ I'm Shiro, a passionate software developer with a strong interest in VR (Virtual
 🌱 I'm always eager to learn new things and grow as a developer. Currently, I'm exploring vue、Node.js、Solitidy.  
 
 ### Statistical Data
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterOuO&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterOuO&hide_progress=true)]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterOuO&show_icons=true&theme=radical)  
 
