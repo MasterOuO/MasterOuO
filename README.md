@@ -1,4 +1,4 @@
-### Hi 👋
+<h1 align="center"> Hi 👋 </h1>
 
 I'm Shiro, a passionate software developer with a strong interest in VR (Virtual Reality). I enjoy working with various programming languages and frameworks, but my current focus is on JavaScript.  
 
