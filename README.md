@@ -1,13 +1,6 @@
-<h1 align="center"> Hi there! 👋 </h1>
+<h1 align="center"> Hi ! 👋 </h1>
 
-I'm Shiro, a passionate software developer with a strong interest in VR (Virtual Reality). I enjoy working with various programming languages and frameworks, but my current focus is on JavaScript.  
-
-🌱 I'm always eager to learn new things and grow as a developer.
-
-### Statistical Data
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterOuO&hide_progress=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterOuO&show_icons=true&theme=radical)  
+Software Engineer | Unity | Backend | Cloud Native
 
 
 <!--
